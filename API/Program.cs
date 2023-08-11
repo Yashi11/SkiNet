@@ -6,10 +6,11 @@ using Microsoft.EntityFrameworkCore;
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
-
+builder.Services.AddControllers();
+builder.Services.AddApplicationServices(builder.Configuration);
 
 var app = builder.Build();
-builder.Services.AddApplicationServices(builder.Configuration);
+
 // Configure the HTTP request pipeline.
 app.UseMiddleware<ExceptionMiddleware>();
 app.UseStatusCodePagesWithReExecute("/errors/{0}");
