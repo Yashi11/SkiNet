@@ -22,6 +22,7 @@ app.UseSwaggerUI();
 //     app.UseSwaggerUI();
 // }
 app.UseStaticFiles();
+app.UseCors("CORS Policy");
 app.UseAuthorization();
 
 app.MapControllers();
