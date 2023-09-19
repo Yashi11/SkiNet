@@ -8,7 +8,7 @@
     "ProductBrandId": 1
   },
   {
-    "Name": "Green Angular Board 3000",
+    "Name": "Angular Board 3000",
     "Description": "Nunc viverra imperdiet enim. Fusce est. Vivamus a tellus.",
     "Price": 150,
     "ImageURL": "images/products/sb-ang2.png",
@@ -48,31 +48,31 @@
     "ProductBrandId": 5
   },
   {
-    "Name": "Core Blue Hat",
+    "Name": "Core Hat",
     "Description": "Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
     "Price": 10,
-    "ImageURL": "images/products/hat-core1.png",
+    "ImageURL": "images/products/hat-core1.jpeg",
     "ProductTypeId": 2,
     "ProductBrandId": 2
   },
   {
-    "Name": "Green React Woolen Hat",
+    "Name": "React Woolen Hat",
     "Description": "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
     "Price": 8,
-    "ImageURL": "images/products/hat-react1.png",
+    "ImageURL": "images/products/hat-react1.jpeg",
     "ProductTypeId": 2,
     "ProductBrandId": 4
   },
   {
-    "Name": "Purple React Woolen Hat",
+    "Name": "React Woolen Hat",
     "Description": "Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
     "Price": 15,
-    "ImageURL": "images/products/hat-react2.png",
+    "ImageURL": "images/products/hat-react2.jpg",
     "ProductTypeId": 2,
     "ProductBrandId": 4
   },
   {
-    "Name": "Blue Code Gloves",
+    "Name": "Code Gloves",
     "Description": "Nunc viverra imperdiet enim. Fusce est. Vivamus a tellus.",
     "Price": 18,
     "ImageURL": "images/products/glove-code1.png",
@@ -80,7 +80,7 @@
     "ProductBrandId": 3
   },
   {
-    "Name": "Green Code Gloves",
+    "Name": "Code Gloves",
     "Description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci.",
     "Price": 15,
     "ImageURL": "images/products/glove-code2.png",
@@ -88,7 +88,7 @@
     "ProductBrandId": 3
   },
   {
-    "Name": "Purple React Gloves",
+    "Name": "React Gloves",
     "Description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa.",
     "Price": 16,
     "ImageURL": "images/products/glove-react1.png",
@@ -96,7 +96,7 @@
     "ProductBrandId": 4
   },
   {
-    "Name": "Green React Gloves",
+    "Name": "React Gloves",
     "Description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci.",
     "Price": 14,
     "ImageURL": "images/products/glove-react2.png",
@@ -104,7 +104,7 @@
     "ProductBrandId": 4
   },
   {
-    "Name": "Redis Red Boots",
+    "Name": "Redis Boots",
     "Description": "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
     "Price": 250,
     "ImageURL": "images/products/boot-redis1.png",
@@ -112,7 +112,7 @@
     "ProductBrandId": 6
   },
   {
-    "Name": "Core Red Boots",
+    "Name": "Core Boots",
     "Description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
     "Price": 189.99,
     "ImageURL": "images/products/boot-core2.png",
@@ -120,7 +120,7 @@
     "ProductBrandId": 2
   },
   {
-    "Name": "Core Purple Boots",
+    "Name": "Core Boots",
     "Description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci.",
     "Price": 199.99,
     "ImageURL": "images/products/boot-core1.png",
@@ -128,7 +128,7 @@
     "ProductBrandId": 2
   },
   {
-    "Name": "Angular Purple Boots",
+    "Name": "Angular Boots",
     "Description": "Aenean nec lorem. In porttitor. Donec laoreet nonummy augue.",
     "Price": 150,
     "ImageURL": "images/products/boot-ang2.png",
@@ -136,7 +136,7 @@
     "ProductBrandId": 1
   },
   {
-    "Name": "Angular Blue Boots",
+    "Name": "Angular Boots",
     "Description": "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
     "Price": 180,
     "ImageURL": "images/products/boot-ang1.png",
